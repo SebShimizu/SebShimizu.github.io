@@ -6,4 +6,4 @@
 <a href="https://SebShimizu.github.io/Practica5.html">Practica 5 de bootstrap.-Grids</a><br>
 <a href="https://SebShimizu.github.io/Practica6.html">Practica 6 de bootstrap.-Grids</a><br>
 <a href="https://SebShimizu.github.io/Practica7.html">Practica 7 de bootstrap.-Grids</a><br>
-<a href="https://SebShimizu.github.io/Practica7.html">.-Grids</a><br>
+<a href="https://SebShimizu.github.io/ProyectoDePaginasWeb/bootstrap-3.3.7-dist">.-Grids</a><br>
